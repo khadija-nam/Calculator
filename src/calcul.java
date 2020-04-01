@@ -269,25 +269,26 @@ public class calcul {
         binaireButton.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent actionEvent) {
-                double ops = Double.parseDouble(String.valueOf(textField1.getText()));
-                ops = Math.sqrt(ops);
-                textField1.setText(String.valueOf(ops));
+                int a = Integer.parseInt(txtDisplay.getText());
+                txtDisplay.setText(Integer.toString(a, 2));
+
             }
         });
         hexButton.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent actionEvent) {
                 double ops = Double.parseDouble(String.valueOf(textField1.getText()));
-                ops = Math.sqrt(ops);
-                textField1.setText(String.valueOf(ops));
+                 int a = Integer.parseInt(txtDisplay.getText());
+                txtDisplay.setText(Integer.toString(a, 16));
             }
         });
         octaleButton.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent actionEvent) {
                 double ops = Double.parseDouble(String.valueOf(textField1.getText()));
-                ops = Math.sqrt(ops);
-                textField1.setText(String.valueOf(ops));
+                int a = Integer.parseInt(txtDisplay.getText());
+                txtDisplay.setText(Integer.toString(a, 8));
+
             }
         });
     }
