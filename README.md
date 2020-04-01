@@ -1,6 +1,6 @@
 # Scientific Calculator 
-
-
+With this calculator you can do the operations such as Addition / Subtraction / Division / Multiplication /Cos  / Sin  / Tan  / Round / log / Square / Cube / Power /.....
+![Calculator](https://user-images.githubusercontent.com/61113546/78150508-4baaef80-742f-11ea-93df-211cf035f66a.PNG)
 # Tools
 IntelliJ IDEA 2019
 # Language used
