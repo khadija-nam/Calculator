@@ -1,7 +1,7 @@
 # Scientific Calculator 
 With this calculator you can do the operations such as Addition / Subtraction / Division / Multiplication /Cos  / Sin  / Tan  / Round / log / Square / Cube/Binaire/Hex....
 
-![calculatrice](https://user-images.githubusercontent.com/61113546/78186620-ef62c280-7464-11ea-9a99-52bd69b5ac35.PNG)
+![Cpop](https://user-images.githubusercontent.com/61113546/78186843-541e1d00-7465-11ea-9fd6-18ed5bd1eb64.PNG)
 # Tools
 IntelliJ IDEA 2019
 # Language used
