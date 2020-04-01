@@ -1,5 +1,5 @@
 # Scientific Calculator 
-With this calculator you can do the operations such as Addition / Subtraction / Division / Multiplication /Cos  / Sin  / Tan  / Round / log / Square / Cube/Binaire/Hex....
+With this calculator you can do the operations such as Addition / Subtraction / Division / Multiplication /Cos  / Sin  / Tan  / log / Square / Cube/Binaire/Hex....
 
 ![Cpop](https://user-images.githubusercontent.com/61113546/78186843-541e1d00-7465-11ea-9fd6-18ed5bd1eb64.PNG)
 # Tools
